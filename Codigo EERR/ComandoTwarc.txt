@@ -1,0 +1,1 @@
+twarc2 searches --archive --start-time 2022-02-01 --end-time 2022-03-01 palabras.txt eerr_twarc.jsonl
